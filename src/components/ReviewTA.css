@@ -1,0 +1,9 @@
+.review {
+    border: 1px solid silver;
+    border-radius: 5px;
+    width: 900px;
+}
+button {
+    background-color: white;
+    border: none;
+}

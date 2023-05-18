@@ -1,0 +1,27 @@
+.ReviewContent {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    margin-left: 148px;
+
+}
+.Content {
+    border: 1px solid silver;
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 20px;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.display {
+    display: flex;
+    justify-content: space-between;
+}
+.rac{
+    background-color: green;
+    border: none;
+}
